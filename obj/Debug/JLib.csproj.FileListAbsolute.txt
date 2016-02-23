@@ -1,0 +1,7 @@
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\bin\Debug\JLib.dll
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\bin\Debug\JLib.pdb
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\obj\Debug\JLib.csprojResolveAssemblyReference.cache
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\obj\Debug\JLib.dll
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\obj\Debug\JLib.pdb
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\bin\Debug\0.1\JLib.dll
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\bin\Debug\0.1\JLib.pdb

@@ -1,0 +1,4 @@
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\bin\Release\JLib.dll
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\bin\Release\JLib.pdb
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\obj\Release\JLib.dll
+C:\Users\Jared\OneDrive\Documents\Code\_libraries\personal\JLib\obj\Release\JLib.pdb
